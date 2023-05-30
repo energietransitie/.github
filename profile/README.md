@@ -25,8 +25,8 @@
 - [energietransitie.github.io](https://github.com/energietransitie/energietransitie.github.io)
 
 ### Open data
-- [twomes-dataset-assendorp2021](https://github.com/energietransitie/twomes-dataset-assendorp2021)
-- [brains4buildings-dataset-windesheim2022](https://github.com/energietransitie/brains4buildings-dataset-windesheim2022)
+- [twomes-dataset-windesheim-assendorp2021](https://github.com/energietransitie/twomes-dataset-windesheim-assendorp2021)
+- [twomes-dataset-windesheim-brains4buildings2022](https://github.com/energietransitie/twomes-dataset-windesheim-brains4buildings2022)
 
 ### Data analysis
 - [twomes-inverse-grey-box-analysis](https://github.com/energietransitie/twomes-inverse-grey-box-analysis)
