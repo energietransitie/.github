@@ -11,7 +11,7 @@
 - [twomes-room-monitor-firmware](https://github.com/energietransitie/twomes-room-monitor-firmware)
 - [twomes-opentherm-monitor-firmware](https://github.com/energietransitie/twomes-opentherm-monitor-firmware)
 - [twomes-boiler-monitor-firmware](https://github.com/energietransitie/twomes-boiler-monitor-firmware)
-- [twomes-scd41-presence-firmware](https://github.com/energietransitie/twomes-scd41-presence-firmware)
+- [twomes-co2-occupancy-scd41-m5coreink-firmware](https://github.com/energietransitie/twomes-co2-occupancy-scd41-m5coreink-firmware)
 
 ### Open hardware for measurement devices
 - [twomes-opentherm-monitor-hardware](https://github.com/energietransitie/twomes-opentherm-monitor-hardware)
