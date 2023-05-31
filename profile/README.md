@@ -7,9 +7,9 @@
 ### Firmware for measurement devices
 - [twomes-generic-esp-firmware](https://github.com/energietransitie/twomes-generic-esp-firmware)
 - [twomes-presence-detector](https://github.com/energietransitie/twomes-presence-detector)
+- [twomes-opentherm-monitor-firmware](https://github.com/energietransitie/twomes-opentherm-monitor-firmware)
 - [twomes-p1-gateway-firmware](https://github.com/energietransitie/twomes-p1-gateway-firmware)
 - [twomes-room-monitor-firmware](https://github.com/energietransitie/twomes-room-monitor-firmware)
-- [twomes-opentherm-monitor-firmware](https://github.com/energietransitie/twomes-opentherm-monitor-firmware)
 - [twomes-boiler-monitor-firmware](https://github.com/energietransitie/twomes-boiler-monitor-firmware)
 - [twomes-co2-occupancy-scd41-m5coreink-firmware](https://github.com/energietransitie/twomes-co2-occupancy-scd41-m5coreink-firmware)
 
@@ -22,7 +22,6 @@
 ### Server and database
 - [twomes-backoffice-api](https://github.com/energietransitie/twomes-backoffice-api)
 - [twomes-backoffice-configuration](https://github.com/energietransitie/twomes-backoffice-configuration)
-- [energietransitie.github.io](https://github.com/energietransitie/energietransitie.github.io)
 
 ### Open data
 - [twomes-dataset-windesheim-assendorp2021](https://github.com/energietransitie/twomes-dataset-windesheim-assendorp2021)
