@@ -6,7 +6,7 @@
 
 ### Firmware for measurement devices
 - [twomes-generic-esp-firmware](https://github.com/energietransitie/twomes-generic-esp-firmware)
-- [twomes-presence-detector](https://github.com/energietransitie/twomes-presence-detector)
+- [twomes-presence-detector-firmware](https://github.com/energietransitie/twomes-presence-detector-firmware)
 - [twomes-opentherm-monitor-firmware](https://github.com/energietransitie/twomes-opentherm-monitor-firmware)
 - [twomes-p1-gateway-firmware](https://github.com/energietransitie/twomes-p1-gateway-firmware)
 - [twomes-room-monitor-firmware](https://github.com/energietransitie/twomes-room-monitor-firmware)
