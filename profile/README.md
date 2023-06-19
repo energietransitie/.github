@@ -1,8 +1,7 @@
 ## Digital twins for heating transition
 
 ### Data collection app
-- [twomes-provisioning-app](https://github.com/energietransitie/twomes-provisioning-app)
-- [esp-provisioning-capacitor-plugin](https://github.com/energietransitie/esp-provisioning-capacitor-plugin)
+- [twomes-app-needforheat](https://github.com/energietransitie/twomes-app-needforheat)
 
 ### Firmware for measurement devices
 - [twomes-generic-esp-firmware](https://github.com/energietransitie/twomes-generic-esp-firmware)
