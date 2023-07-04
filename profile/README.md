@@ -6,11 +6,12 @@
 ### Firmware for measurement devices
 - [twomes-generic-esp-firmware](https://github.com/energietransitie/twomes-generic-esp-firmware)
 - [twomes-presence-detector-firmware](https://github.com/energietransitie/twomes-presence-detector-firmware)
+- [twomes-co2-occupancy-scd41-m5coreink-firmware](https://github.com/energietransitie/twomes-co2-occupancy-scd41-m5coreink-firmware)
 - [twomes-opentherm-monitor-firmware](https://github.com/energietransitie/twomes-opentherm-monitor-firmware)
+- [twomes-p1-reader-firmware](https://github.com/energietransitie/twomes-p1-reader-firmware)
 - [twomes-p1-gateway-firmware](https://github.com/energietransitie/twomes-p1-gateway-firmware)
 - [twomes-room-monitor-firmware](https://github.com/energietransitie/twomes-room-monitor-firmware)
 - [twomes-boiler-monitor-firmware](https://github.com/energietransitie/twomes-boiler-monitor-firmware)
-- [twomes-co2-occupancy-scd41-m5coreink-firmware](https://github.com/energietransitie/twomes-co2-occupancy-scd41-m5coreink-firmware)
 
 ### Open hardware for measurement devices
 - [twomes-opentherm-monitor-hardware](https://github.com/energietransitie/twomes-opentherm-monitor-hardware)
