@@ -26,6 +26,7 @@
 ### Open data
 - [twomes-dataset-windesheim-assendorp2021](https://github.com/energietransitie/twomes-dataset-windesheim-assendorp2021)
 - [twomes-dataset-windesheim-brains4buildings2022](https://github.com/energietransitie/twomes-dataset-windesheim-brains4buildings2022)
+- [dsmr-info](https://github.com/energietransitie/dsmr-info)
 
 ### Data analysis
 - [twomes-inverse-grey-box-analysis](https://github.com/energietransitie/twomes-inverse-grey-box-analysis)
