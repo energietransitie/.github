@@ -29,7 +29,7 @@
 - [dsmr-info](https://github.com/energietransitie/dsmr-info)
 
 ### Data analysis
-- [twomes-inverse-grey-box-analysis](https://github.com/energietransitie/twomes-inverse-grey-box-analysis)
+- [needforheat-analysis](https://github.com/energietransitie/needforheat-analysis)
 
 ---
 
