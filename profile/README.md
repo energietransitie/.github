@@ -1,7 +1,7 @@
 ## Digital twins for heating transition
 
 ### Data collection app
-- [twomes-app-needforheat](https://github.com/energietransitie/twomes-app-needforheat)
+- [needforheat-gearup-app](https://github.com/energietransitie/needforheat-gerarup-app)
 
 ### Firmware for measurement devices
 - [twomes-generic-esp-firmware](https://github.com/energietransitie/twomes-generic-esp-firmware)
