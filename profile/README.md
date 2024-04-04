@@ -1,4 +1,4 @@
-## Digital twins for heating transition
+## NeedForHeat DataGear: Digital Twins for the Home Heating Transition
 
 ### Data collection app
 - [needforheat-gearup-app](https://github.com/energietransitie/needforheat-gerarup-app)
