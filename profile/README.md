@@ -1,7 +1,7 @@
 ## NeedForHeat DataGear: Digital Twins for the Home Heating Transition
 
 ### Data collection app
-- [needforheat-gearup-app](https://github.com/energietransitie/needforheat-gerarup-app)
+- [needforheat-gearup-app](https://github.com/energietransitie/needforheat-gearup-app)
 
 ### Firmware for measurement devices
 - [twomes-generic-esp-firmware](https://github.com/energietransitie/twomes-generic-esp-firmware)
