@@ -1,14 +1,33 @@
-## NeedForHeat DataGear: Digital Twins for the Home Heating Transition
+## NeedForHeat DataGear
+***Empowering Tomorrow's Energy Doctor with Open Hardware, Software, and Data***
 
 ### Data collection app
 - [needforheat-gearup-app](https://github.com/energietransitie/needforheat-gearup-app)
 
 ### Firmware for measurement devices
-- [twomes-generic-esp-firmware](https://github.com/energietransitie/twomes-generic-esp-firmware)
-- [twomes-presence-detector-firmware](https://github.com/energietransitie/twomes-presence-detector-firmware)
-- [twomes-co2-occupancy-scd41-m5coreink-firmware](https://github.com/energietransitie/twomes-co2-occupancy-scd41-m5coreink-firmware)
+- [needforheat-generic-firmware](https://github.com/energietransitie/needforheat-generic-firmware)
+- [needforheat-presence-detector-firmware](https://github.com/energietransitie/needforheat-presence-detector-firmware)
+- [needforheat-living-room-module-firmware](https://github.com/energietransitie/needforheat-living-room-module-firmware)
+- [needforheat-p1-reader-firmware](https://github.com/energietransitie/needforheat-p1-reader-firmware)
+
+### Open hardware for measurement devices
+- *coming soon*
+
+### Server and database
+- [needforheat-server-api](https://github.com/energietransitie/needforheat-server-api)
+- [needforheat-server-configuration](https://github.com/energietransitie/needforheat-server-configuration)
+
+### Open data
+- [dsmr-info](https://github.com/energietransitie/dsmr-info)
+
+### Data analysis
+- [needforheat-analysis](https://github.com/energietransitie/needforheat-analysis)
+
+---
+## Twomes: Digital Twins for the Home Heating Transition
+
+### Firmware for measurement devices
 - [twomes-opentherm-monitor-firmware](https://github.com/energietransitie/twomes-opentherm-monitor-firmware)
-- [twomes-p1-reader-firmware](https://github.com/energietransitie/twomes-p1-reader-firmware)
 - [twomes-p1-gateway-firmware](https://github.com/energietransitie/twomes-p1-gateway-firmware)
 - [twomes-room-monitor-firmware](https://github.com/energietransitie/twomes-room-monitor-firmware)
 - [twomes-boiler-monitor-firmware](https://github.com/energietransitie/twomes-boiler-monitor-firmware)
@@ -19,17 +38,9 @@
 - [twomes-temp-monitor-hardware](https://github.com/energietransitie/twomes-temp-monitor-hardware)
 - [twomes-co2-monitor-hardware](https://github.com/energietransitie/twomes-co2-monitor-hardware)
 
-### Server and database
-- [twomes-backoffice-api](https://github.com/energietransitie/twomes-backoffice-api)
-- [twomes-backoffice-configuration](https://github.com/energietransitie/twomes-backoffice-configuration)
-
 ### Open data
 - [twomes-dataset-windesheim-assendorp2021](https://github.com/energietransitie/twomes-dataset-windesheim-assendorp2021)
 - [twomes-dataset-windesheim-brains4buildings2022](https://github.com/energietransitie/twomes-dataset-windesheim-brains4buildings2022)
-- [dsmr-info](https://github.com/energietransitie/dsmr-info)
-
-### Data analysis
-- [needforheat-analysis](https://github.com/energietransitie/needforheat-analysis)
 
 ---
 
