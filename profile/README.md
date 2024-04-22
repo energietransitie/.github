@@ -16,9 +16,11 @@
 ### Server and database
 - [needforheat-server-api](https://github.com/energietransitie/needforheat-server-api)
 - [needforheat-server-configuration](https://github.com/energietransitie/needforheat-server-configuration)
+- [needforheat-manual-server](https://github.com/energietransitie/needforheat-manual-server)
 
 ### Open data
 - [dsmr-info](https://github.com/energietransitie/dsmr-info)
+- [needforheat-manuals](https://github.com/energietransitie/needforheat-manuals)
 
 ### Data analysis
 - [needforheat-analysis](https://github.com/energietransitie/needforheat-analysis)
