@@ -23,7 +23,7 @@
 - [needforheat-manuals](https://github.com/energietransitie/needforheat-manuals)
 
 ### Data analysis
-- [needforheat-analysis](https://github.com/energietransitie/needforheat-analysis)
+- [needforheat-dynamic-analysis](https://github.com/energietransitie/needforheat-dynamic-analysis)
 
 ---
 ## Twomes: Digital Twins for the Home Heating Transition
