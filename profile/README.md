@@ -11,7 +11,8 @@
 - [needforheat-p1-reader-firmware](https://github.com/energietransitie/needforheat-p1-reader-firmware)
 
 ### Open hardware for measurement devices
-- *coming soon*
+- [needforheat-p1-base-hardware](https://github.com/energietransitie/needforheat-p1-base-hardware)
+- [needforheat-boiler-monitor-hardware](https://github.com/energietransitie/needforheat-boiler-monitor-hardware) 
 
 ### Server and database
 - [needforheat-server-api](https://github.com/energietransitie/needforheat-server-api)
