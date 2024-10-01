@@ -1,8 +1,11 @@
-## NeedForHeat DataGear
+# NeedForHeat DataGear
 ***Empowering Tomorrow's Energy Doctor with Open Hardware, Software, and Data***
 
-### Data collection app
+## Data collection
+
+### Smartphone app
 - [needforheat-gearup-app](https://github.com/energietransitie/needforheat-gearup-app)
+- [needforheat-manuals](https://github.com/energietransitie/needforheat-manuals)
 
 ### Firmware for measurement devices
 - [needforheat-generic-firmware](https://github.com/energietransitie/needforheat-generic-firmware)
@@ -10,7 +13,7 @@
 - [needforheat-living-room-module-firmware](https://github.com/energietransitie/needforheat-living-room-module-firmware)
 - [needforheat-p1-reader-firmware](https://github.com/energietransitie/needforheat-p1-reader-firmware)
 
-### Open hardware for measurement devices
+### Hardware for measurement devices
 - [needforheat-p1-base-hardware](https://github.com/energietransitie/needforheat-p1-base-hardware)
 - [needforheat-boiler-monitor-hardware](https://github.com/energietransitie/needforheat-boiler-monitor-hardware) 
 
@@ -19,11 +22,10 @@
 - [needforheat-server-configuration](https://github.com/energietransitie/needforheat-server-configuration)
 - [needforheat-manual-server](https://github.com/energietransitie/needforheat-manual-server)
 
-### Open data
+## Open data
 - [dsmr-info](https://github.com/energietransitie/dsmr-info)
-- [needforheat-manuals](https://github.com/energietransitie/needforheat-manuals)
 
-### Data analysis
+## Data analysis
 - [needforheat-dynamic-analysis](https://github.com/energietransitie/needforheat-dynamic-analysis)
 
 ---
