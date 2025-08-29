@@ -26,7 +26,7 @@
 - [dsmr-info](https://github.com/energietransitie/dsmr-info)
 
 ## Data analysis
-- [needforheat-dynamic-analysis](https://github.com/energietransitie/needforheat-dynamic-analysis)
+- [needforheat-diagnosis](https://github.com/energietransitie/needforheat-diagnosis)
 
 ---
 ## Twomes: Digital Twins for the Home Heating Transition
