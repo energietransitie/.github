@@ -44,8 +44,8 @@
 - [twomes-co2-monitor-hardware](https://github.com/energietransitie/twomes-co2-monitor-hardware)
 
 ### Open data
-- [twomes-dataset-windesheim-assendorp2021](https://github.com/energietransitie/twomes-dataset-windesheim-assendorp2021)
-- [twomes-dataset-windesheim-brains4buildings2022](https://github.com/energietransitie/twomes-dataset-windesheim-brains4buildings2022)
+- [twomes-windesheim-assendorp2021-dataset](https://github.com/energietransitie/twomes-windesheim-assendorp2021-dataset)
+- [twomes-windesheim-brains4buildings2022-dataset](https://github.com/energietransitie/twomes-windesheim-brains4buildings2022-dataset)
 
 ---
 
