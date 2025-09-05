@@ -24,10 +24,16 @@
 
 ## Open data
 - [dsmr-info](https://github.com/energietransitie/dsmr-info)
+- [needforheat-reducedheatcarb2023-dataset](https://github.com/energietransitie/needforheat-reducedheatcarb2023-dataset)
 
 ## Data analysis: NeedForHeat Diagnosis
 - [needforheat-diagnosis](https://github.com/energietransitie/needforheat-diagnosis)
 
+---
+## Brains4Buildings
+
+### Open data
+- [b4b-windesheim-brains4buildings2022-dataset](https://github.com/energietransitie/b4b-windesheim-brains4buildings2022-dataset)
 ---
 ## Twomes: Digital Twins for the Home Heating Transition
 
@@ -45,10 +51,9 @@
 
 ### Open data
 - [twomes-windesheim-assendorp2021-dataset](https://github.com/energietransitie/twomes-windesheim-assendorp2021-dataset)
-- [twomes-windesheim-brains4buildings2022-dataset](https://github.com/energietransitie/twomes-windesheim-brains4buildings2022-dataset)
 
 ---
 
-## Educational tools
-- [sdg-swiper](https://github.com/energietransitie/sdg-swiper)
+## EBBE project: educational tools
+- [ebbe-sdg-swiper](https://github.com/energietransitie/ebbe-sdg-swiper)
 - [carboncase-deployment-configuration](https://github.com/energietransitie/carboncase-deployment-configuration)
