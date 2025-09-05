@@ -1,7 +1,7 @@
-# NeedForHeat DataGear
+# NeedForHeat
 ***Empowering Tomorrow's Energy Doctor with Open Hardware, Software, and Data***
 
-## Data collection
+## Data collection: NeedForHeat DataGear 
 
 ### Smartphone app
 - [needforheat-gearup-app](https://github.com/energietransitie/needforheat-gearup-app)
@@ -25,7 +25,7 @@
 ## Open data
 - [dsmr-info](https://github.com/energietransitie/dsmr-info)
 
-## Data analysis
+## Data analysis: NeedForHeat Diagnosis
 - [needforheat-diagnosis](https://github.com/energietransitie/needforheat-diagnosis)
 
 ---
