@@ -1,7 +1,9 @@
 # NeedForHeat
 ***Empowering Tomorrow's Energy Doctor with Open Hardware, Software, and Data***
 
-## Data collection: NeedForHeat DataGear 
+## NeedForHeat DataGear 
+
+Open hardware and open software for residential data collection.
 
 ### Smartphone app
 - [needforheat-gearup-app](https://github.com/energietransitie/needforheat-gearup-app)
@@ -26,8 +28,11 @@
 - [dsmr-info](https://github.com/energietransitie/dsmr-info)
 - [needforheat-reducedheatcarb2023-dataset](https://github.com/energietransitie/needforheat-reducedheatcarb2023-dataset)
 
-## Data analysis: NeedForHeat Diagnosis
-- [needforheat-diagnosis](https://github.com/energietransitie/needforheat-diagnosis)
+## NeedForHeat Diagnosis
+
+Physics informed machine learning tools to learn home heating characteristics from data collected with NeedForHeat DataGear.
+
+- [needforheat-diagnosis-software](https://github.com/energietransitie/needforheat-diagnosis-software)
 
 ---
 ## Brains4Buildings
